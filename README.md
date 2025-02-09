@@ -9,13 +9,9 @@
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/Gustsilv](https://github.com/Gustsilv)
 
-- 📝 I regularly write articles on [https://www.notion.so/gustavoliber/Sobre-mim-195dd007de5280078ca7d2793561d310](https://www.notion.so/gustavoliber/Sobre-mim-195dd007de5280078ca7d2793561d310)
-
 - 💬 Pode me perguntar sobre **pandas, numpy, matplotlib and SQL**
 
 - 📫 Você pode falar comigo através de **gustavoalves.silva1994@outlook.com**
-
-- 📄 Conheça minhas experiências em [https://www.notion.so/gustavoliber/Sobre-mim-195dd007de5280078ca7d2793561d310](https://www.notion.so/gustavoliber/Sobre-mim-195dd007de5280078ca7d2793561d310)
 
 - ⚡ Fato engraçado **O único gol que fiz em uma partida de futebol no fundamental foi contra meu próprio time.**
 
